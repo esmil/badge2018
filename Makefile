@@ -4,3 +4,7 @@
 include geckonator/include.mk
 
 CHIP = EFM32HG322F64
+
+sources += i2c0.c
+sources += display.c
+sources += jeopardy.c

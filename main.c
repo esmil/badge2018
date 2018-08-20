@@ -24,7 +24,7 @@
 #include "geckonator/gpio.h"
 #include "geckonator/emu.h"
 
-#include "geckonator/display.h"
+#include "display.h"
 #include "jeopardy.h"
 
 #include "badge2018.h"

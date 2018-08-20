@@ -1,11 +1,11 @@
 #include <stdint.h>
 #include <stdlib.h>
 
+#include "geckonator/clock.h"
 #include "geckonator/emu.h"
 #include "geckonator/i2c0.h"
 
-#include "geckonator/display.h"
-#include "geckonator/clock.h"
+#include "display.h"
 
 typedef struct display {
 	uint8_t tx;

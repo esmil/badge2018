@@ -1,4 +1,4 @@
-#include "geckonator/display.h"
+#include "display.h"
 #include "jeopardy.h"
 
 static volatile int S_events_a;
